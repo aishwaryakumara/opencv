@@ -28,4 +28,5 @@ NetworkBackend::~NetworkBackend()
     // nothing
 }
 
+// Master branch comment
 }}  // namespace cv::dnn_backend
